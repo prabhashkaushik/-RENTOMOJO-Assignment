@@ -1,0 +1,48 @@
+body {
+    margin: 5;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.margin-3 {
+    margin: 3%;
+   
+}
+.margin-31 {
+    background-color: aquamarine;
+    padding: 0;
+
+}
+
+.margin-tb-3 {
+    margin: 3%;
+}
+
+.flex-box {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(115, 253, 230);
+    border-radius: 0.2%;
+}
+
+.box {
+    width: 95%;
+    margin: 1% 0.5% 3%;
+    
+    border-radius: 0.2%;
+}
+
+@media only screen and (min-width: 768px) {
+    /* For desktop: */
+    .box {
+        width: 29%;
+        margin: 0.5%;
+    }
+}
+
+.title{
+    padding:right;
+    width: 98;
+    background-color: rgb(209, 241, 237);
+    height: 15%;
+}
