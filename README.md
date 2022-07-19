@@ -1,11 +1,9 @@
-#Games API
+# -Games API
 https://s3-ap-southeast-1.amazonaws.com/he-public-data/gamesarena274f2bf.json
 
-#How to run the project in Development Mode
+# -How to run the project in Development Mode
 The project uses Node.js >= 6.x and the Create-React-App starter code.
-
 After Node is installed in your system, follow the below steps.
-
 Navigate to the directory where you want to store the app.
 Clone the repo git clone 
 Now install all modules listed as dependencies in package.json by running the command npm install
